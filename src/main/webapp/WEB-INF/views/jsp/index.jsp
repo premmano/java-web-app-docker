@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Devops projects.</h2>
-			<h3>Contact @ xxxxx </h3>
+			<h3>Contact @ xxxxx</h3>
 		</div>	
 	</div>
 
